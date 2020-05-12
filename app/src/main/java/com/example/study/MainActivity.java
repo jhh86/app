@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //githup소스올리기 테스트
+        //githup소스올리기 테스트 //내려받기 테스트
     }
 }
